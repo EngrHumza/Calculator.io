@@ -1,0 +1,19 @@
+    
+    table{
+        margin: 300px auto;
+    }
+
+    input[type="button"] 
+    { 
+    background-color: #c1b0b0;
+    color: black; 
+    border: solid black 2px; 
+    width:100% 
+    } 
+
+    input[type="text"] 
+    { 
+    background-color:white; 
+    border: solid #795548 2px; 
+    width:100% 
+    }
